@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "versionCode": "100",
     "updateInfo": "🎉 首次发布\\n✅ 添加自动更新功能\\n🔧 修复已知问题",
-    "downloadUrl": "https://github.com/你的用户名/fuel-app-update/releases/download/v1.0.0/fuel-app-release.apk",
+    "downloadUrl": "https://github.com/MYdgyh/my-app-update/releases/download/v1.0.0/fuel-app-release.apk",
     "forceUpdate": false,
     "releaseNotes": [
         "🔧 修复油耗计算精度问题",
