@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.3",
-  "versionCode": 103,
-  "note": "这是一个功能测试更新",
-  "downloadUrl": "https://github.com/MYdgyh/my-app-update/releases/download/v1.0.3/app-releases-v1.03.apk"
+  "versionName": "1.0.6",
+  "versionCode": 106,
+  "note": "修复已知的BUG",
+  "downloadUrl": "https://github.com/MYdgyh/my-app-update/releases/download/v1.0.6/app-releases-v1.0.6.apk"
 }
