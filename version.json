@@ -1,17 +1,11 @@
 {
-    "version": "1.0.1",
-    "versionCode": "101",
-    "updateInfo": "🔧 修复已知问题",
-    "downloadUrl": "https://github.com/MYdgyh/my-app-update/releases/tag/v1.0.1/fuel-app-release.apk",
-    "forceUpdate": false,
-    "releaseNotes": [
-        "🔧 修复油耗计算精度问题",
-        "🎨 优化用户界面设计",
-        "🚀 添加自动更新功能",
-        "📱 提升应用稳定性"
-    ],
-    "releaseDate": "2025-12-13",
-    "minRequiredVersion": "1.0.0",
-    "fileSize": "12.5MB",
-    "md5": "a1b2c3d4e5f6...（可选）"
+  "version": "1.0.1",
+  "versionCode": "101",
+  "updateInfo": "新版本发布\\n• 使用CDN加速下载\\n• 修复已知问题\\n• 优化用户体验",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/MYdgyh/my-app-update@main/app-release-v1.0.1.apk",
+  "githubUrl": "github.com/MYdgyh/my-app-update/releases/tag/v1.0.1/fuel-app-release.apk",
+  "forceUpdate": false,
+  "fileSize": "15.2MB",
+  "md5": "xxxxxx",
+  "releaseDate": "2024-01-15"
 }
