@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "versionCode": 101,
   "updateInfo": "修复已知问题，优化用户体验",
-  "downloadUrl": "https://github.com/MYdgyh/my-app-update/releases/tag/v1.0.1",
+  "downloadUrl": "https://github.com/MYdgyh/my-app-update/releases/download/v1.0.1",
   "forceUpdate": false,
   "fileSize": "25.6MB",
   "releaseNotes": [
@@ -10,6 +10,6 @@
     "优化界面显示",
     "增加数据导出功能"
   ],
-  "releaseDate": "2024-01-15",
-  "minRequiredVersion": "1.0.0"
+  "releaseDate": "2025-12-13",
+  "minRequiredVersion": "1.0.1"
 }
