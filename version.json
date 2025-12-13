@@ -1,11 +1,15 @@
 {
   "version": "1.0.1",
-  "versionCode": "101",
-  "updateInfo": "新版本发布\\n• 使用CDN加速下载\\n• 修复已知问题\\n• 优化用户体验",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/MYdgyh/my-app-update@main/app-release-v1.0.1.apk",
-  "githubUrl": "github.com/MYdgyh/my-app-update/releases/tag/v1.0.1/fuel-app-release.apk",
+  "versionCode": 101,
+  "updateInfo": "修复已知问题，优化用户体验",
+  "downloadUrl": "https://github.com/MYdgyh/my-app-update/releases/download/v1.0.1/app-release.apk",
   "forceUpdate": false,
-  "fileSize": "15.2MB",
-  "md5": "xxxxxx",
-  "releaseDate": "2024-01-15"
+  "fileSize": "25.6MB",
+  "releaseNotes": [
+    "修复油耗计算错误",
+    "优化界面显示",
+    "增加数据导出功能"
+  ],
+  "releaseDate": "2024-01-15",
+  "minRequiredVersion": "1.0.0"
 }
