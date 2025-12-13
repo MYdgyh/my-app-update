@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "versionCode": 101,
   "updateInfo": "修复已知问题，优化用户体验",
-  "downloadUrl": "https://github.com/MYdgyh/my-app-update/blob/main/version.json",
+  "downloadUrl": "https://raw.githubusercontent.com/MYdgyh/my-app-update/refs/heads/main/version.json",
   "forceUpdate": false,
   "fileSize": "25.6MB",
   "releaseNotes": [
